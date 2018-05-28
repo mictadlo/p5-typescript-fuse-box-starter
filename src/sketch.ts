@@ -1,3 +1,7 @@
+import 'p5'
+import './morph'
+
+
 var sketch = (p: p5) => {
 
     const morph = new Morph();
