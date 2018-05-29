@@ -1,5 +1,5 @@
 //https://processing.org/examples/morph.html
-class Morph {
+export class Morph {
     
   // Arrays to store the vertices for the shapes
   shapes: {points: p5.Vector[], color: p5.Color}[];

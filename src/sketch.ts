@@ -1,5 +1,5 @@
 import 'p5'
-import './morph'
+import { Morph } from './morph'
 
 
 var sketch = (p: p5) => {
